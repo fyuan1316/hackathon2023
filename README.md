@@ -19,10 +19,13 @@
   - 对于通用类的报错信息，他可能给得出处理建议的。但也仅限于在训练中习得过类似的内容（否则就是很有逻辑的废话，你懂的~）
   
 PPT
+
 ![介绍](pics/幻灯片1.png)
 ![介绍](pics/幻灯片2.png)
 ![介绍](pics/幻灯片3.png)
 ![介绍](pics/幻灯片4.png)
+https://github.com/fyuan1316/hackathon2023/assets/42265657/a7495ca4-36f3-4108-a676-d9a3d5b0c111
+https://github.com/fyuan1316/hackathon2023/assets/42265657/7e9d2dd6-069a-4bd7-b0c4-68418decf32e
 ![介绍](pics/幻灯片5.png)
 ![介绍](pics/幻灯片6.png)
 ![介绍](pics/幻灯片7.png)
